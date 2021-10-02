@@ -12,5 +12,5 @@ This is a quiz application where you can :
 
 # Links
 
-- Demo live : [Quiz](https://pedantic-wright-767bd2.netlify.app/)
+- Demo live : [Quiz](https://quizprojectapp.netlify.app/)
 - Api used : [Trivia Api](https://opentdb.com/api_config.php)
